@@ -46,6 +46,7 @@ AI is reshaping the software development lifecycle. Initiated by [@laurentshowti
 
 ## 🤖 AI Agents & Autonomous Frameworks
 
+- [**Agent QA**](https://github.com/vostride/agent-qa) - Authors and runs natural-language regression tests for web, Android, and iOS. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years.
 - [**LangGraph**](https://github.com/langchain-ai/langgraph) - Build cyclical, multi-agent workflows with fine-grained state control.
 - [**AutoGPT / Forge**](https://github.com/Significant-Gravitas/AutoGPT) - The pioneer autonomous AI agent architecture.
 - [**CrewAI**](https://github.com/joaomdmoura/crewAI) - Role-playing, collaborative multi-agent orchestration framework.
