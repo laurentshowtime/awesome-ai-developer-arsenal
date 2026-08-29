@@ -48,6 +48,7 @@ AI 正在重塑软件开发的整个生命周期。本项目由 [@laurentshowtim
 
 ## 🤖 智能体与自主编码框架
 
+- [**Agent QA**](https://github.com/vostride/agent-qa) - 使用自然语言编写并运行 Web、Android 和 iOS 回归测试。当前采用 FSL-1.1-ALv2 源码可用许可证；每个版本将在两年后转换为 Apache-2.0。
 - [**LangGraph**](https://github.com/langchain-ai/langgraph) - 构建具有循环、分支与状态管理的多智能体系统。
 - [**AutoGPT / Forge**](https://github.com/Significant-Gravitas/AutoGPT) - 经典自主智能体架构探索。
 - [**CrewAI**](https://github.com/joaomdmoura/crewAI) - 角色驱动的多 Agent 协同编排框架。
