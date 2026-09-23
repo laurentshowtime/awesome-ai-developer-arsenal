@@ -47,6 +47,7 @@ AI 正在重塑软件开发的整个生命周期。本项目由 [@laurentshowtim
 ---
 
 ## 🤖 智能体与自主编码框架
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 - [**LangGraph**](https://github.com/langchain-ai/langgraph) - 构建具有循环、分支与状态管理的多智能体系统。
 - [**AutoGPT / Forge**](https://github.com/Significant-Gravitas/AutoGPT) - 经典自主智能体架构探索。
