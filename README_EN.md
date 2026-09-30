@@ -41,6 +41,7 @@ AI is reshaping the software development lifecycle. Initiated by [@laurentshowti
 | **Claude Code** | CLI Assistant | Interactive full-terminal coding, debugging & refactoring | [Visit](https://anthropic.com) |
 | **v0 by Vercel** | UI Generation | Generates modern React & Tailwind UI components | [Visit](https://v0.dev) |
 | **Continue** | Open Source Extension | Connect local LLMs (Ollama / vLLM) as your copilot | [Visit](https://github.com/continuedev/continue) |
+| **Sillage** | Self-hosted Web UI | Mobile-first web/PWA to run the Claude Code & Codex CLIs from anywhere, with worktrees and an IDE panel | [Visit](https://github.com/MarlBurroW/sillage) |
 
 ---
 
