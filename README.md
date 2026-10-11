@@ -67,3 +67,8 @@ AI 正在重塑软件开发的整个生命周期。本项目由 [@laurentshowtim
 2. 性能与内存优化空间
 3. 代码可读性与命名规范
 4. 提供重构前后的 Diff 代码片段
+
+## Tale
+
+[**Tale**](https://tale.dev) is an open-source project workspace for teams and AI agents. Delegate tasks to configured agents in persistent sandboxes, then review reports, deliverables, and run history together. Tale also exposes an authenticated MCP endpoint for tool discovery and automation authoring. [Source repository](https://github.com/tale-project/tale) · [MCP docs](https://docs.tale.dev/develop/mcp-endpoint)
+
